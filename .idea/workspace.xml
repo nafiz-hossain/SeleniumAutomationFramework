@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afbd76bc-6573-45e8-a14b-08c2064cd94a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SampleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680781835756</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added SampleTest class with sampleMethodForEmailEntering test case">
+      <created>1680781964109</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680781964109</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,7 +125,8 @@
     <MESSAGE value="Added HomePageElements.java, LoginPageElements.java" />
     <MESSAGE value="Add LoginPageEvents class with two methods: verifyLoginPageOpenOrNot and enterEmailId" />
     <MESSAGE value="Added HomePageEvents class with clickOnSignInButton method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HomePageEvents class with clickOnSignInButton method" />
+    <MESSAGE value="Added SampleTest class with sampleMethodForEmailEntering test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SampleTest class with sampleMethodForEmailEntering test case" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
