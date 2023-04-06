@@ -15,7 +15,11 @@ public class LoginPageEvents {
         ElementFetch elementFetch = new ElementFetch();
 
         BaseTest.logger.info("Entering the email id");
-        elementFetch.getWebElement("ID", LoginPageElements.emailAdress).sendKeys("nhremon8181@gmail.com");
+        elementFetch.getWebElement("ID", LoginPageElements.emailAddress).sendKeys("nhremon8181@gmail.com");
+        BaseTest.logger.info("Entering the password");
+        elementFetch.getWebElement("ID", LoginPageElements.password).sendKeys("123456");
+
+
     }
 
 
