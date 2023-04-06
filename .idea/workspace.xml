@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="afbd76bc-6573-45e8-a14b-08c2064cd94a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680781964109</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added an XML code snippet for configuring a test suite using TestNG">
+      <created>1680784786330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680784786330</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,7 +134,8 @@
     <MESSAGE value="Add LoginPageEvents class with two methods: verifyLoginPageOpenOrNot and enterEmailId" />
     <MESSAGE value="Added HomePageEvents class with clickOnSignInButton method" />
     <MESSAGE value="Added SampleTest class with sampleMethodForEmailEntering test case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added SampleTest class with sampleMethodForEmailEntering test case" />
+    <MESSAGE value="Added an XML code snippet for configuring a test suite using TestNG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an XML code snippet for configuring a test suite using TestNG" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
