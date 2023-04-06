@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afbd76bc-6573-45e8-a14b-08c2064cd94a" name="Changes" comment="Added Constants.java, BasteTest.java, also implemented After test, Before test, After method and Before method methods.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ElementFetch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/RetryAnalyser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/SuiteListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="afbd76bc-6573-45e8-a14b-08c2064cd94a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,13 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680774716456</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added ElementFetch.java, The method uses a switch statement to check the value of identifierType and returns the corresponding WebElement using Selenium's By class to locate the element.">
+      <created>1680775042944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680775042944</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Constants.java, BasteTest.java, also implemented After test, Before test, After method and Before method methods." />
     <MESSAGE value="- Added RetryAnalyser.java&#10;- Implemented the TestNG IRetryAnalyzer interface, which provides a way to retry a failed test case." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Added RetryAnalyser.java&#10;- Implemented the TestNG IRetryAnalyzer interface, which provides a way to retry a failed test case." />
+    <MESSAGE value="Added ElementFetch.java, The method uses a switch statement to check the value of identifierType and returns the corresponding WebElement using Selenium's By class to locate the element." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ElementFetch.java, The method uses a switch statement to check the value of identifierType and returns the corresponding WebElement using Selenium's By class to locate the element." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
