@@ -13,5 +13,9 @@ public class SampleTest extends BaseTest{
         LoginPageEvents loginPageEvents = new LoginPageEvents();
         loginPageEvents.verifyLoginPageOpenOrNot();
         loginPageEvents.enterEmailId();
+        loginPageEvents.enterPassword();
+        loginPageEvents.loginButtonClick();
+//        homePageEvents.itemsToBuy();
+//        homePageEvents.addToCartItem();
     }
 }
