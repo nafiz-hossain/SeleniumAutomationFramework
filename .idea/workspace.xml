@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afbd76bc-6573-45e8-a14b-08c2064cd94a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageEvents/HomePageEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageEvents/LoginPageEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SampleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/nafiz/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/HomePageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/HomePageElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPageElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680775351004</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add LoginPageEvents class with two methods: verifyLoginPageOpenOrNot and enterEmailId">
+      <created>1680781791510</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680781791510</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added HomePageEvents class with clickOnSignInButton method">
+      <created>1680781835756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680781835756</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,7 +116,9 @@
     <MESSAGE value="- Added RetryAnalyser.java&#10;- Implemented the TestNG IRetryAnalyzer interface, which provides a way to retry a failed test case." />
     <MESSAGE value="Added ElementFetch.java, The method uses a switch statement to check the value of identifierType and returns the corresponding WebElement using Selenium's By class to locate the element." />
     <MESSAGE value="Added HomePageElements.java, LoginPageElements.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HomePageElements.java, LoginPageElements.java" />
+    <MESSAGE value="Add LoginPageEvents class with two methods: verifyLoginPageOpenOrNot and enterEmailId" />
+    <MESSAGE value="Added HomePageEvents class with clickOnSignInButton method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HomePageEvents class with clickOnSignInButton method" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
