@@ -70,6 +70,14 @@ public class BaseTest {
             logger.log(Status.FAIL, m);
         }
 
+        else if (result.getStatus()== ITestResult.SKIP){
+            String methodName = result.getMethod().getMethodName();
+            String logText = "Test Case: " + methodName + "Skipped";
+            Markup m = MarkupHelper.createLabel(logText, ExtentColor.YELLOW);
+            logger.log(Status.SKIP, m);
+        }
+
+
 
         driver.quit();
     }

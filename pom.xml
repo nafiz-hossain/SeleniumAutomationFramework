@@ -34,16 +34,16 @@
             </plugin>
 
 
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-archetype-plugin</artifactId>
-                <version>3.2.1</version>
-                <configuration>
-                    <suiteXmlFiles>
-                        <systemPropertiesFiles>testng.xml</systemPropertiesFiles>
-                    </suiteXmlFiles>
-                </configuration>
-            </plugin>
+<!--            <plugin>-->
+<!--                <groupId>org.apache.maven.plugins</groupId>-->
+<!--                <artifactId>maven-archetype-plugin</artifactId>-->
+<!--                <version>3.2.1</version>-->
+<!--                <configuration>-->
+<!--                    <suiteXmlFiles>-->
+<!--                        <systemPropertiesFiles>testng.xml</systemPropertiesFiles>-->
+<!--                    </suiteXmlFiles>-->
+<!--                </configuration>-->
+<!--            </plugin>-->
         </plugins>
     </build>
 
