@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afbd76bc-6573-45e8-a14b-08c2064cd94a" name="Changes" comment="" />
+    <list default="true" id="afbd76bc-6573-45e8-a14b-08c2064cd94a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageEvents/HomePageEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageEvents/LoginPageEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nafiz/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/HomePageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/HomePageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Constants.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,14 +92,22 @@
       <option name="project" value="LOCAL" />
       <updated>1680775042944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added HomePageElements.java, LoginPageElements.java">
+      <created>1680775351004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680775351004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Constants.java, BasteTest.java, also implemented After test, Before test, After method and Before method methods." />
     <MESSAGE value="- Added RetryAnalyser.java&#10;- Implemented the TestNG IRetryAnalyzer interface, which provides a way to retry a failed test case." />
     <MESSAGE value="Added ElementFetch.java, The method uses a switch statement to check the value of identifierType and returns the corresponding WebElement using Selenium's By class to locate the element." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ElementFetch.java, The method uses a switch statement to check the value of identifierType and returns the corresponding WebElement using Selenium's By class to locate the element." />
+    <MESSAGE value="Added HomePageElements.java, LoginPageElements.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HomePageElements.java, LoginPageElements.java" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
