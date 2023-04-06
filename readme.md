@@ -30,10 +30,6 @@ For more detailed instructions, please refer to the [User Guide](docs/user-guide
 
 This project is open to contributions from the community! If you find a bug, have a feature request, or just want to help improve the framework, please create an issue or submit a pull request. Please read the [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use it, modify it, and distribute it as you see fit.
-
 ## Contact
 
-If you have any questions or feedback about this project, please don't hesitate to reach out to me at my email [INSERT YOUR EMAIL HERE] or via [INSERT YOUR SOCIAL MEDIA HANDLES HERE]. Thank you for your interest in this Selenium Automation Framework!
+If you have any questions or feedback about this project, please don't hesitate to reach out to me at my email nhremon8181@gmail.com or via fb.com/nhremon. Thank you for your interest in this Selenium Automation Framework!
