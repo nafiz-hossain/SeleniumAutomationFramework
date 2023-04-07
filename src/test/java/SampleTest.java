@@ -15,7 +15,7 @@ public class SampleTest extends BaseTest{
         loginPageEvents.enterEmailId();
         loginPageEvents.enterPassword();
         loginPageEvents.loginButtonClick();
-//        homePageEvents.itemsToBuy();
-//        homePageEvents.addToCartItem();
+//      homePageEvents.itemsToBuy();
+//      homePageEvents.addToCartItem();
     }
 }
