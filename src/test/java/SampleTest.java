@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class SampleTest extends BaseTest{
     @Test
-    public void sampleMethodForEmailEntering(){
+    public void sampleMethodForEmailEntering() throws InterruptedException {
         HomePageEvents homePageEvents = new HomePageEvents();
         homePageEvents.clickOnSignInButton();
 
@@ -15,6 +15,9 @@ public class SampleTest extends BaseTest{
         loginPageEvents.enterEmailId();
         loginPageEvents.enterPassword();
         loginPageEvents.loginButtonClick();
+
+        homePageEvents.testPurchasePhone();
+   //     homePageEvents.testPurchasePhone();
 //      homePageEvents.itemsToBuy();
 //      homePageEvents.addToCartItem();
     }

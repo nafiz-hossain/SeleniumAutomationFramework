@@ -26,6 +26,7 @@ public class BaseTest {
 
 
 
+
     @BeforeTest
     public void beforeTestMethod(){
         htmlReporter =  new ExtentSparkReporter(System.getProperty("user.dir")+File.separator+"reports"+File.separator+"AutomationReport.html");
@@ -79,7 +80,7 @@ public class BaseTest {
 
 
 
-        driver.quit();
+//        driver.quit();
     }
 
 
@@ -95,6 +96,11 @@ public class BaseTest {
         }
 
     }
+//    public static WebDriver getDriver() {
+//        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + File.separator + "drivers" + File.separator + "chromedriver");
+//        driver = new ChromeDriver();
+//        return driver;
+//    }
 
 
 }

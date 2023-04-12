@@ -38,13 +38,6 @@ public class LoginPageEvents {
         Assert.assertTrue(loginButtons.size() > 0, "Login page didn't open");
         loginButtons.get(0).click(); // Click on the first login button found
 
-        // wait for the next page to load
-//        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-//        wait.until(ExpectedConditions.urlContains("dashboard"));
-
 
     }
-
-
-
 }
