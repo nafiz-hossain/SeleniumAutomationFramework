@@ -1,6 +1,8 @@
 # Selenium Automation Framework
+![badge](https://img.shields.io/badge/Selenium-4.8.3-brightgreen)
 
 ![Project Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg)
+
 
 Welcome to my Selenium Automation Framework! This project is focused on building a powerful, scalable and easy-to-use automation framework using Selenium WebDriver and other popular open-source tools.
 
