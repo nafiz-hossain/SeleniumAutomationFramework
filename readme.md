@@ -1,5 +1,8 @@
 # Selenium Automation Framework
 ![badge](https://img.shields.io/badge/Selenium-4.8.3-brightgreen)
+![badge](https://img.shields.io/badge/testng-7.7.0-orange)
+![badge](https://img.shields.io/badge/extentreports-5.0.9-blue)
+
 
 ![Project Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg)
 
