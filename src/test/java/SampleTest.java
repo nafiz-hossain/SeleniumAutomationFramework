@@ -12,8 +12,8 @@ public class SampleTest extends BaseTest{
 
         LoginPageEvents loginPageEvents = new LoginPageEvents();
         loginPageEvents.verifyLoginPageOpenOrNot();
-        loginPageEvents.enterEmailId();
-        loginPageEvents.enterPassword();
+        loginPageEvents.enterValidEmailId();
+        loginPageEvents.enterValidPassword();
         loginPageEvents.loginButtonClick();
 
         homePageEvents.testPurchasePhone();
